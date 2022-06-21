@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Isabella Zapata</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50%" style="align:center">
+<img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="100%" text-align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabella2303&label=Profile%20views&color=0e75b6&style=flat" alt="isabella2303" /> </p>
 
 - 🔭 I’m currently working on **HTML Y CSS**
